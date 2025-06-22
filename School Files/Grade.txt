@@ -1,0 +1,9 @@
+8.75/10
+
+- (-1) name.py is incorrect.
+- (-0.25) math.py is missing the exponent operation.
+
+You can change those files and resubmit.
+
+
+I did not :(
